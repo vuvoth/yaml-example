@@ -38,7 +38,7 @@ Vu:
 
 ```yaml
 content: What i've felt
-  What i've know
+  What i've known
   Never shined through in what I've shown
   Never be
   Never see
@@ -49,7 +49,7 @@ We will get
 
 ```json
 {
-  "content": "What i've felt What i've know Never shined through in what I've shown Never be Never see Won't see what might have been"
+  "content": "What i've felt What i've known Never shined through in what I've shown Never be Never see Won't see what might have been"
 }
 ```
 
@@ -58,7 +58,7 @@ We will get
 ```yaml
 content: |
   What i've felt
-  What i've know
+  What i've known
   Never shined through in what I've shown
   Never be
   Never see
@@ -68,7 +68,7 @@ content: |
 we will get
 
 ```json
-{ "content": "What i've felt\nWhat i've know\nNever shined through in what I've shown\nNever be
+{ "content": "What i've felt\nWhat i've known\nNever shined through in what I've shown\nNever be
 \nNever see\nWon't see what might have been\n" }
 ```
 
@@ -77,7 +77,7 @@ we will get
 ```yaml
 content: >
   What i've felt
-  What i've know
+  What i've known
   Never shined through in what I've shown
   Never be
   Never see
@@ -88,7 +88,7 @@ We get
 
 ```json
 {
-  "content": "What i've felt What i've know Never shined through in what I've shown Never be Never see Won't see what might have been\n"
+  "content": "What i've felt What i've known Never shined through in what I've shown Never be Never see Won't see what might have been\n"
 }
 ```
 
