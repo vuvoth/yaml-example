@@ -1,0 +1,3 @@
+foo: "{{ variable }}/additional/string/literal"
+foo2: "{{ variable }}\\backslashes\\are\\also\\special\\characters"
+foo3: "even if it's just a string literal it must all be quoted"

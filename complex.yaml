@@ -1,0 +1,25 @@
+- Vu:
+    fullname: Vu Vo Thanh
+    job: Blockchain Dev and AI research
+    salary: 50000 usd / month
+    skills:
+      - python
+      - c/c++
+
+- Cham:
+    fullname: -_-
+    job: -_-
+    salary: -_-
+
+- Lan:
+    fullname: Lan
+    job: Fullstack Dev
+    salary: 40000 usd / month
+---
+Friends:
+  - Phuc
+  - Tinh
+  - Tai
+  - Thang
+  - Thong
+  - Ty
