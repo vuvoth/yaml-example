@@ -10,3 +10,7 @@ bar: &bar
   age: 20
 
 baz: *base
+---
+items:
+  - &banana Big banana
+  - *banana
